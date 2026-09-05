@@ -1,0 +1,1 @@
+rejection_id,target_product_id,rejected_product_id,store_id,target_product_name,rejected_product_name,store_name,store_address,offer_url,scope_type,reason_code,reason,rule_field,rule_operator,rule_value,rule_unit,created_at,notes
